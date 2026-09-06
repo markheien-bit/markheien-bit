@@ -14,8 +14,8 @@ I sell physical products to technical buyers: process equipment, instrumentation
 
 | Repository | What it is |
 |---|---|
-| [cheme-papers](https://github.com/chememarkheien-bit/cheme-papers) | Chemical engineering coursework: design reports, lab reports, Aspen Plus models and Python notebooks. Includes the **Bowen Award (1st place)** senior capstone: a techno-economic retrofit of Seattle's Gas Works Park into a cellulosic ethanol plant fed by apple pomace. |
-| [mark-heien-site](https://github.com/chememarkheien-bit/mark-heien-site) | Source for the personal site. |
+| [cheme-papers](https://github.com/markheien-bit/cheme-papers) | Chemical engineering coursework: design reports, lab reports, Aspen Plus models and Python notebooks. Includes the **Bowen Award (1st place)** senior capstone: a techno-economic retrofit of Seattle's Gas Works Park into a cellulosic ethanol plant fed by apple pomace. |
+| [mark-heien-site](https://github.com/markheien-bit/mark-heien-site) | Source for the personal site. |
 
 ## Technical toolkit
 
